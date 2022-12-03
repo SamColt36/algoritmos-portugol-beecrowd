@@ -1,27 +1,13 @@
-beecrowd | 1041
- # Coordenadas de um Ponto
+beecrowd | 1038
+# LANCHES
+#### Feito por Samuel SS, Fortaleza  Brasil | Adaptado por Neilor Tonin, URI  Brasil
 
+## Proposta:
 
+Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.
+		
+>![Tabela](https://resources.beecrowd.com.br/gallery/images/problems/UOJ_1038_pt.png)
 
-##### Adaptado por Neilor Tonin, URI  Brasil
+## Entrada:
 
-
-## Timelimit: 1
-
-Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto em um plano. A seguir, determine qual o quadrante ao qual pertence o ponto, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0).
-
-
-![Tabela](https://resources.beecrowd.com.br/gallery/images/problems/UOJ_1041.png)
-
-Se o ponto estiver na origem, escreva a mensagem “Origem”.
-
-Se o ponto estiver sobre um dos eixos escreva “Eixo X” ou “Eixo Y”, conforme for a situação.
-
-## Entrada
-
-A entrada contem as coordenadas de um ponto.
-
-## Saída
-
-A saída deve apresentar o quadrante em que o ponto se encontra.
-
+O arquivo de saída deve conter a mensagem "Total: R$ " seguido pelo valor a ser pago, com 2 casas após o ponto decimal.
