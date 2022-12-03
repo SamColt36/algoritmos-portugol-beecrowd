@@ -2,7 +2,6 @@ beecrowd | 1008
 # ÁREA DO CÍRCULO
 #### Feito por Samuel SS, Fortaleza  Brasil | Adaptado por Neilor Tonin, URI  Brasil
 
-[ACESSAR BEECROWD](https://www.beecrowd.com.br/home/sobre-nos/)
 ## Proposta:
 A fórmula para calcular a área de uma circunferência é: área = π . raio². Considerando para este problema que π = 3.14159:
 >Efetue o cálculo da área, elevando o valor de raio ao quadrado e multiplicando por π.
