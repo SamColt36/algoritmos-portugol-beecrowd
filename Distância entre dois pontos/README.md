@@ -1,12 +1,8 @@
-beecrowd | 1008
- # Distância Entre Dois Pontos
+beecrowd | 1036
+# DISTÂNCIA ENTRE DOIS PONTOS
+#### Feito por Samuel SS, Fortaleza  Brasil | Adaptado por Neilor Tonin, URI  Brasil
 
-
-
-##### Adaptado por Neilor Tonin, URI  Brasil
-
-
-## Timelimit: 1
+## Proposta:
 
 Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer no plano, p1(x1,y1) e p2(x2,y2) e calcule a distância entre eles, mostrando 4 casas decimais após a vírgula.
 
