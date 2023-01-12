@@ -1,4 +1,4 @@
-![](https://beecrowd.io/wp-content/uploads/2021/08/beecrowd__roxoVert-300x241.png "a title")
+| ![](https://beecrowd.io/wp-content/uploads/2021/08/beecrowd__roxoVert-300x241.png "visualizar") |
 # BEECROWD
 
 ## Somos uma plataforma digital de serviços profissionais
