@@ -1,4 +1,4 @@
-beecrowd | 1070
+🔥 beecrowd | 1070
 # SEIS NÚMEROS ÍMPARES
 #### Feito por Samuel SS, Fortaleza  Brasil | Adaptado por Neilor Tonin, URI  Brasil
 
