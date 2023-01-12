@@ -46,7 +46,6 @@ programa
 				senao { //a, b e c <>0
 				//Lei de ofrmação geral
 					delta = ((b*b) - (4*a*c))					
-					//escreva("\n", "O discriminate vale: ", delta)
 					se (delta<0) {
 						escreva("\n", "Impossível calcular nos reais")
 					}
