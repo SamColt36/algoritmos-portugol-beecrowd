@@ -1,4 +1,4 @@
-🤔 beecrowd | 1008
+🔥 beecrowd | 1008
 # ÁREA DO CÍRCULO
 #### Feito por Samuel SS, Fortaleza  Brasil | Adaptado por Neilor Tonin, URI  Brasil
 
