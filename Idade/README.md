@@ -1,4 +1,4 @@
-beecrowd | 1020
+🔥 beecrowd | 1020
 # IDADE EM DIAS
 #### Feito por Samuel SS, Fortaleza  Brasil | Adaptado por Neilor Tonin, URI  Brasil
 
