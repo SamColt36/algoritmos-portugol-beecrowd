@@ -1,6 +1,5 @@
-![](https://beecrowd.io/wp-content/uploads/2021/08/beecrowd__roxoVert-300x241.png "visualizar")
 # BEECROWD
-
+<img src="https://beecrowd.io/wp-content/uploads/2021/08/beecrowd__roxoVert-300x241.png" alt="logo beecrowd" style='text-align: center;'>
 <h2> Somos uma plataforma digital de serviços profissionais </h2>
 
 
