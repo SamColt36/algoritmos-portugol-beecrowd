@@ -10,7 +10,6 @@ programa
 		leia(r)
 		a = ((Matematica.PI)*r*r)
 		escreva("\n", "A área é ", a, " ua")
-
 	}
 }
 /* $$$ Portugol Studio $$$ 
