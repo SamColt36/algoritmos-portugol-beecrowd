@@ -1,4 +1,4 @@
-beecrowd | 1036
+🔥 beecrowd | 1036
 # DISTÂNCIA ENTRE DOIS PONTOS
 #### Feito por Samuel SS, Fortaleza  Brasil | Adaptado por Neilor Tonin, URI  Brasil
 
