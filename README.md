@@ -1,7 +1,7 @@
-| ![](https://beecrowd.io/wp-content/uploads/2021/08/beecrowd__roxoVert-300x241.png "visualizar") |
+![](https://beecrowd.io/wp-content/uploads/2021/08/beecrowd__roxoVert-300x241.png "visualizar")
 # BEECROWD
 
-## Somos uma plataforma digital de serviços profissionais
+<h2> Somos uma plataforma digital de serviços profissionais </h2>
 
 
 Empoderamos estudantes e profissionais de **tecnologia** e 
