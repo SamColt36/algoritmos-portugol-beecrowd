@@ -1,4 +1,4 @@
-beecrowd | 1017
+🔥 beecrowd | 1017
 # GASTO DE COMBUSTÍVEL
 #### Feito por Samuel SS, Fortaleza  Brasil | Adaptado por Neilor Tonin, URI  Brasil
 
